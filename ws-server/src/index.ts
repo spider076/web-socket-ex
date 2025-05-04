@@ -1,7 +1,6 @@
 import WebSocket, { WebSocketServer } from "ws";
 
 import express from "express";
-import { SocketProvider } from "ethers";
 
 var port = 8082;
 
